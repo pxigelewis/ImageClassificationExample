@@ -1,2 +1,2 @@
 # ImageClassificationExample
-Classifying images using machine learning example
+Classifying images using machine learning
